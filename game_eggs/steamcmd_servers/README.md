@@ -60,6 +60,10 @@ This is a collection of servers that use SteamCMD to install.
 
 [Core Keeper](core_keeper)
 
+## Counter-Strike
+
+[Counter-Strike](counter_strike)
+
 ## Craftopia
 
 [Craftopia](craftopia)
@@ -71,6 +75,13 @@ This is a collection of servers that use SteamCMD to install.
 ## DayZ (Experimental)
 
 [DayZ (Experimental)](dayz-experimental)
+
+## DDNet
+[DDNet](ddnet)
+
+## Dead Matter
+
+[Dead Matter](dead_matter)
 
 ## Don't Starve Together
 
@@ -157,6 +168,10 @@ This is a collection of servers that use SteamCMD to install.
 
 [Mount & Blade II: Bannerlord](mount_blade_II_bannerlord)
 
+## Myth of Empires
+
+[Myth of Empires](myth_of_empires)
+
 ## Necesse
 
 [Necesse](necesse)
@@ -168,9 +183,17 @@ This is a collection of servers that use SteamCMD to install.
 
 [No More Room in Hell](nmrih)
 
+## No Love Lost
+
+[No Love Lost](no_love_lost)
+
 ## No One Survived
 
 [No One Survived](no_one_survived)
+
+## Nova-Life: Amboise
+
+[Nova-Life: Amboise](novalife_amboise)
 
 ## Onset
 
@@ -297,6 +320,10 @@ This is a collection of servers that use SteamCMD to install.
 
 [Team Fortress 2 Classic](team_fortress_2_classic)
 
+## TerraTech Worlds
+
+[TerraTech Worlds](terratech_worlds)
+
 ## The Forest
 
 [The Forest](the_forest)
@@ -337,5 +364,9 @@ This is a collection of servers that use SteamCMD to install.
   * [Valheim BepInEx](valheim/valheim_bepinex)
   * [Valheim Plus Mod](valheim/valheim_plus)
 
+## VEIN
+
+[VEIN](vein)
+
 ## Wurm Unlimited
-* [Wurm Unlimited](wurm_unlimited/)
+[Wurm Unlimited](wurm_unlimited/)

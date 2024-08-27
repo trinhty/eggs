@@ -27,6 +27,8 @@
 [Doom](doom)
 * [Zandronum](doom/zandronum)
 
+[Escape from Tarkov](eft)
+
 [ET Legacy](enemy_territory/etlegacy)
 
 [Factorio](factorio)
@@ -61,6 +63,8 @@
 
 [League Sandbox](leaguesandbox)
 
+[Neverwinter Nights: Enhanced Edition](neverwinter_nights_ee)
+
 [Mindustry](mindustry)
 
 [Minecraft](minecraft)
@@ -84,6 +88,7 @@
   * [Magma](minecraft/java/magma)
   * [Mohist](minecraft/java/mohist)
   * [NanoLimbo](minecraft/java/nanolimbo)
+  * [NeoForge](minecraft/java/neoforge)
   * [Paper](minecraft/java/paper)
   * [Folia](minecraft/java/folia)
   * [Purpur](minecraft/java/purpur)
@@ -126,6 +131,7 @@
 [Rimworld](rimworld)
 
 * [Open World](rimworld/open_world)
+* [Rimworld Together](rimworld/together)
 
 [Starmade](starmade)
 
@@ -150,9 +156,12 @@
 * [Core Keeper](steamcmd_servers/core_keeper)
 * [Counter-Strike](steamcmd_servers/counter_strike/)
   * [Counter-Strike: Source](steamcmd_servers/counter_strike/counter_strike_source/)
+  * [Counter-Strike 2](steamcmd_servers/counter_strike/counter_strike_2/)
 * [Craftopia](game_eggs/steamcmd_servers/craftopia)
 * [CryoFall](steamcmd_servers/cryofall)
 * [DayZ (Experimental)](steamcmd_servers/dayz-experimental)
+* [Dead Matter](steamcmd_servers/dead_matter)
+* [DDNet](steamcmd_servers/ddnet)
 * [Don't Starve Together](steamcmd_servers/dont_starve)
 * [ECO](steamcmd_servers/eco)
 * [Empyrion - Galactic Survival](steamcmd_servers/empyrion)
@@ -176,10 +185,13 @@
 * [Modiverse](steamcmd_servers/modiverse)
 * [Mordhau](steamcmd_servers/mordhau)
 * [Mount & Blade II: Bannerlord](steamcmd_servers/mount_blade_II_bannerlord)
+* [Myth of Empires](steamcmd_servers/myth_of_empires)
 * [Necesse](steamcmd_servers/necesse)
 * [Neos VR](steamcmd_servers/neosvr)
 * [No More Room in Hell](steamcmd_servers/nmrih)
+* [No Love Lost](steamcmd_servers/no_love_lost)
 * [No One Survived](steamcmd_servers/no_one_survived)
+* [Nova-Life: Amboise](steamcmd_servers/novalife_amboise)
 * [Onset](steamcmd_servers/onset)
 * [Open Fortress](steamcmd_servers/open_fortress)
 * [Operation Harsh Doorstop](steamcmd_servers/operation_harsh_doorstop)
@@ -219,6 +231,7 @@
 * [Sven Co-op](steamcmd_servers/svencoop)
 * [Swords 'n Magic and Stuff](steamcmd_servers/swords_'n_Magic_and_Stuff)
 * [Team Fortress 2 Classic](steamcmd_servers/team_fortress_2_classic)
+* [TerraTech Worlds](steamcmd_servers/terratech_worlds)
 * [The Forest](steamcmd_servers/the_forest)
 * [The Front](steamcmd_servers/thefront)
 * [The Isle](steamcmd_servers/the_isle)
@@ -235,7 +248,10 @@
   * [Valheim Vanilla](steamcmd_servers/valheim/valheim_vanilla)
   * [Valheim BepInEx](steamcmd_servers/valheim/valheim_bepinex)
   * [Valheim Plus Mod](steamcmd_servers/valheim/valheim_plus)
+* [VEIN](steamcmd_servers/vein)
 * [Wurm Unlimited](steamcmd_servers/wurm_unlimited/)
+
+[SuperTuxKart](SuperTuxKart)
 
 [Teeworlds](teeworlds)
 
@@ -255,7 +271,5 @@
 [Vintage Story](vintage_story)
 
 [Xonotic](xonotic/xonotic)
-
-[YuzuEmu](yuzu-emu)
 
 [FoundryVTT](FoundryVTT)
